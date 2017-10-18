@@ -26,8 +26,12 @@ public class PetStoreTest {
                 asdikjaskdjaskd
                 
                 asdljasdkj
-        UIG g = new UIG();
-        
+        UIG g = new UIG();ñl
+                
+                aflkadlkalsd
+                
+                asdlkasdlkas
+                        ñasdasldk
         //console.printWelcome();
         g.printWelcome();
 
