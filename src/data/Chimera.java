@@ -10,7 +10,10 @@ public class Chimera extends Mythological {
 
     public Chimera(String booksExperience, String country, String mainCharacteristic, String name, double price) {
         super(country, mainCharacteristic, name, price);
-        this.booksExperience = booksExperience;
+        this.booksExperience = booksExperience;sad´prom v   
+            wer ´wor k  wñek rwe
+             rfwplekfj ñl   wkef
+            wdfñl   w jkef  we fk
     }
 
     public String getExperience() {
